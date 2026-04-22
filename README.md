@@ -1,5 +1,5 @@
 # node-process-utils
 
-Graceful shutdown and signal handling helpers for Node.js
+Graceful shutdown, signal handling, and unhandled rejection helpers for Node.js
 
 Install: `npm install @vaporlogicgp/node-process-utils`

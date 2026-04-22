@@ -1,7 +1,7 @@
 {
   "name": "@vaporlogicgp/node-process-utils",
-  "version": "0.1.0",
-  "description": "Graceful shutdown and signal handling helpers for Node.js",
+  "version": "1.0.0",
+  "description": "Graceful shutdown, signal handling, and unhandled rejection helpers for Node.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/vaporlogic/node-process-utils.git"
@@ -11,7 +11,8 @@
     "process",
     "signal",
     "shutdown",
-    "graceful"
+    "graceful",
+    "unhandled"
   ],
   "author": "process-utils-oss",
   "license": "MIT"
